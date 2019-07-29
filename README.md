@@ -16,7 +16,11 @@
 
 - https://www.udemy.com/learn-baas-blockchain-as-a-service-by-microsoft-azure-toshendra-sharma/
 
-- https://www.udemy.com/topic/microsoft-azure/?p=1(These are all the top course for Microsoft azure, but almost nothing is related to Azure BlockChain.)
+- https://www.udemy.com/topic/microsoft-azure/?p=1 (These are all the top course for Microsoft azure, but almost nothing is related to Azure BlockChain.)
+
+**Coursera(I didn't get much here sir)**
+
+- https://www.coursera.org/courses?query=azure%20blockchain&authMode=login
 
 **Youtube videos**
 
